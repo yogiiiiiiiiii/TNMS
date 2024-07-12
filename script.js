@@ -1,4 +1,4 @@
-let currentStudent = 0;
+let currentStudent = 1;
 let currentTopicIndex = 0;
 let totalStudents;
 let totalTopics;
